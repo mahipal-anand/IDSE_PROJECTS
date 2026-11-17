@@ -2,14 +2,11 @@
 
 A seven-chapter, browser-based IDSE learning adventure. Each concept now follows a story-led sequence: research story → theory → interactive visual experiment → understanding check → continued exploration. Python recovery remains an in-world terminal interaction.
 
-## Run
-Open `index.html` in a modern browser, or run a local server:
+🎮 Play The Last Dataset
 
-```bash
-python3 -m http.server 8000
-```
+Explore data science through an interactive, story-driven RPG learning adventure!
 
-Then visit `http://localhost:8000`.
+https://mahipal-anand.github.io/IDSE_PROJECTS/last-dataset%207/
 
 Internet is required for the Pyodide runtime and scientific packages to load on first use.
 
